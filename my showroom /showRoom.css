@@ -82,3 +82,7 @@ body{
     position: relative;
     font-size:600px;
 }
+
+@media(min-width: 500px){
+    
+}
